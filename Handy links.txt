@@ -1,0 +1,73 @@
+
+Appendix 2 (References for Day 1)
+
+Beginners Guide to Raspberry Pi (Gareth Halfaccree)
+https://store.rpipress.cc/collections/books/products/the-official-raspberry-pi-beginners-guide-4th-edition
+
+General Raspberry Pi Projects 
+https://projects.raspberrypi.org/en/projects/
+
+Getting started with the Sense HAT
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat/9
+
+Other Sense HAT References:
+https://www.raspberrypi.com/documentation/accessories/sense-hat.html
+https://pythonhosted.org/sense-hat/api/
+
+Parent Detector
+https://projects.raspberrypi.org/en/projects/parent-detector/0
+
+
+
+
+ 
+Appendix 3 (References for Day 2)
+National Aeronautics and Space Administration STEMonstrations
+https://www.nasa.gov/wp-content/uploads/2018/06/stemonstrations_orbits.pdf
+
+Wired: Measure the Speed of the ISS With Your iPhone (GOOD¬)
+https://www.wired.com/story/measure-the-speed-of-the-iss-with-your-iphone/
+
+Orbital Today: How Fast Does The ISS Travel? (INTERESTING)
+https://orbitaltoday.com/2022/09/16/how-fast-does-the-iss-travel/
+
+Where is the International Space Station?
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Where_is_the_International_Space_Station
+
+People in space
+https://projects.raspberrypi.org/en/projects/people-in-space-indicator
+
+Flappy Astronaut
+https://projects.raspberrypi.org/en/projects/flappy-astronaut
+
+ISS Data
+http://api.open-notify.org/iss-now.json
+{"timestamp": 1697229897, "message": "success", "iss_position": {"latitude": "-32.3501", "longitude": "-22.5881"}}
+
+http://api.open-notify.org/astros.json
+{"people": [{"craft": "Tiangong", "name": "Jing Haiping"}, {"craft": "Tiangong", "name": "Gui Haichow"}, {"craft": "Tiangong", "name": "Zhu Yangzhu"}, {"craft": "ISS", "name": "Jasmin Moghbeli"}, {"craft": "ISS", "name": "Andreas Mogensen"}, {"craft": "ISS", "name": "Satoshi Furukawa"}, {"craft": "ISS", "name": "Konstantin Borisov"}, {"craft": "ISS", "name": "Oleg Kononenko"}, {"craft": "ISS", "name": "Nikolai Chub"}, {"craft": "ISS", "name": "Loral O'Hara"}], "number": 10, "message": "success"}
+
+
+Haversine formula to find distance between two points on a sphere
+https://www.geeksforgeeks.org/haversine-formula-to-find-distance-between-two-points-on-a-sphere/
+
+Calculate the speed of the ISS
+https://projects.raspberrypi.org/en/projects/astropi-iss-speed/4
+
+Astro Pi Mission Space Lab Phase 2 guide
+https://projects.raspberrypi.org/en/projects/code-for-your-astro-pi-mission-space-lab-experiment/7
+
+LATEST (2023)!! Draft guide for mentors
+https://docs.google.com/document/d/1P2A4fjJ62sFQHurG7jBv8MJ52NjP4_cAYsWO2NXRZbo/edit?usp=sharing
+
+LATEST (2023)!! The draft guide!
+https://projects.raspberrypi.org/en/projects/astropi-iss-speed/1?branch=draft
+
+Danny Murray’s GitHub
+https://github.com/MrDMurray/astropi/tree/main/Speed%20of%20ISS 
+
+Oide GitHub
+https://github.com/pdst-lccs/RaspberryPi
+
+
+
